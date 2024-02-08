@@ -9,7 +9,7 @@
 
 ## Useless Notch? Dynamic Notch!
 
-![](https://community.folivora.ai/uploads/default/original/3X/4/5/45c40ba97e00c75253fc58c2225a36ef6e1cd7b2.png)
+![](https://github.com/MStankiewiczOfficial/Hi-Notch/blob/v24022/assets/screenshot.png?raw=true)
 ***Hi Notch!*** makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 
 > ⚠️ Note: This is still in a test version, which means that there may be errors. Currently available features may be significantly modified or even removed. Bugs should be reported [here](https://github.com/MStankiewiczOfficial/Hi-Notch/issues).
@@ -26,9 +26,9 @@
 
 ### Statuses
 
-* **Battery level** - when the MacBook is running on battery and when the battery level is 100%, the battery level appears on the left side of the Notch (based on a script from [GoldenChaos-BTT](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281/2))
+* **Battery level** - the battery level appears on the left side of the Notch (based on a script from [GoldenChaos-BTT](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281/2))
 * **Music** and **multimedia** - pause and resume multimedia, and check the title and artist of the song being played when you hover the cursor over it
-* **Conferences** - mute and turn on the microphone, and leave the meeting with one click (currently supported apps: *Microsoft Teams (work or school)* and *Zoom*) (In next version!)
+* **Conferences** - mute or unmute and leave the meeting with one click (currently supported apps: *Microsoft Teams (work or school)* and *Zoom*)
 
 **More features coming soon!**
 
