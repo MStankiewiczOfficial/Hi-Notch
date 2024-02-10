@@ -18,17 +18,17 @@
 
 ### Turnouts
 
-* **Mission Control** - quick access to Mission Control from any window
-* **Siri** and **Screen Saver** - call Siri and lock screen directly from the Desktop
-* **Window management** - left, right, top, bottom - you choose where you want the active window to go (based on [Andreas Hegenberg](https://community.folivora.ai/u/andreas_hegenberg/)'s preset)
-* **Arc Browser** - quickly ask ChatGPT or search on website
-* **Google Chrome**, **Mozilla Firefox** and **Safari** - copy URL from active tab or search on website
+* **Mission Control** - quick access to Mission Control from any window.
+* **Siri** and **Screen Saver** - call Siri and lock screen directly from the Desktop.
+* **Window management** - left, right, top, bottom - you choose where you want the active window to go (based on [Andreas Hegenberg](https://community.folivora.ai/u/andreas_hegenberg/)'s preset).
+* **Arc Browser** - quickly ask ChatGPT or search on website.
+* **Google Chrome**, **Mozilla Firefox**, **Safari** and **other browsers** - copy URL from active tab or search on website.
 
 ### Statuses
 
-* **Battery level** - the battery level appears on the left side of the Notch (based on a script from [GoldenChaos-BTT](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281/2))
-* **Music** and **multimedia** - pause and resume multimedia, and check the title and artist of the song being played when you hover the cursor over it
-* **Conferences** - mute or unmute and leave the meeting with one click (currently supported apps: *Microsoft Teams (work or school)* and *Zoom*)
+* **Battery level** - the battery level appears on the left side of the Notch (based on a script from [GoldenChaos-BTT](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281/2)). Is something covered up? Hide it by double-clicking on Notch!
+* **Music** and **multimedia** - pause and resume multimedia, and check the title and artist of the song being played when you hover the cursor over it.
+* **Conferences** - mute or unmute and leave the meeting with one click (currently supported apps: *Microsoft Teams (work or school)* and *Zoom*).
 
 **More features coming soon!**
 
