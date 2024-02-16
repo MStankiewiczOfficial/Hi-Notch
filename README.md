@@ -1,10 +1,9 @@
 # Meet *Hi Notch!*
-[<picture>
+<a href="https://community.folivora.ai/c/setup-preset-sharing/developer-verified-presets/9"><picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MStankiewiczOfficial/Hi-Notch/main/assets/badges/verify_dark_en.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MStankiewiczOfficial/Hi-Notch/main/assets/badges/verify_light_en.svg">
  <img alt="Verified BetterTouchTool Preset" src="https://raw.githubusercontent.com/MStankiewiczOfficial/Hi-Notch/main/assets/badges/verify_dark_en.svg" height="48px">
-</picture>
-](https://community.folivora.ai/c/setup-preset-sharing/developer-verified-presets/9)
+</picture></a>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
 ![GitHub Tag](https://img.shields.io/github/v/tag/MStankiewiczOfficial/Hi-Notch?style=for-the-badge&label=Release&logo=github)
