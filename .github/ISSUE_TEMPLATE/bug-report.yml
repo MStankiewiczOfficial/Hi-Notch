@@ -59,7 +59,7 @@ body:
       description: Add any other context about the problem here.
   - type: checkboxes
     attributes:
-      label: ' '
+      label: 'Statements'
       options:
         - label: I use the latest version of Hi Notch!
           required: true
