@@ -1,0 +1,71 @@
+name: Bug report
+description: Create a report to help me improve Hi Notch!
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Accepted are answers in `English`, `Polish`.
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the behavior
+      placeholder: 1. Go to '...' 2. Click on '....' 3. Scroll down to '....' 4. See error
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Model of Mac
+      description: To check, click the Apple logo on the toolbar and select "This Mac."
+      placeholder: MacBook Pro M2 Pro
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: macOS version
+      description: To check, click the Apple logo on the toolbar, select "This Mac" and click the "macOS" label value.
+      placeholder: 14.2.1 (23C71)
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Hi Notch! version
+      description: To check, click on the battery level in the Hi Notch!.
+      placeholder: '24021'
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: BetterTouchTool version
+      description: To check, click the BetterTouchTool icon on the toolbar.
+      placeholder: 4.401 (44010)
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.
+  - type: checkboxes
+    attributes:
+      label: ' '
+      options:
+        - label: I use the latest version of Hi Notch!
+          required: true
+        - label: I use the latest stable version of BetterTouchTool
+          required: true
+        - label: I verified that the error has not already been reported on GitHub.
+          required: true
+        - label: I verified that the error has not already been reported on BTT Forum.
+          required: true
