@@ -42,6 +42,6 @@ You will get a notification about new updates every time you run BetterTouchTool
 
 ## Instalation
 ### The fastest and safest way is to click the button below.
-### [Click here to import directly to BTT](btt://importviaurl/https://github.com/MStankiewiczOfficial/Hi-Notch/releases/latest/download/Hi.Notch.bttpresetzip)
+[**Click here to import directly to BTT**](btt://importviaurl/https://github.com/MStankiewiczOfficial/Hi-Notch/releases/latest/download/Hi.Notch.bttpresetzip)
 
 ### You can also install from a [file](https://github.com/MStankiewiczOfficial/Hi-Notch/releases/latest).
