@@ -29,7 +29,7 @@
 * **Google Chrome**, **Mozilla Firefox**, **Safari** and **other browsers** - copy URL from active tab or search on website.
 
 ### Statuses
-* **Battery level** - the battery level appears on the left side of the Notch (based on a script from [GoldenChaos-BTT](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281/2)). Is something covered up? Hide it by double-clicking on Notch!
+* **Battery level** - the battery level appears on the left side of the Notch. Is something covered up? Hide it by double-clicking on Notch!
 * **Music** and **multimedia** - pause and resume multimedia, and check the title and artist of the song being played when you hover the cursor over it.
 * **Conferences** - mute or unmute and leave the meeting with one click (currently supported apps: *Microsoft Teams (work or school)* and *Zoom*).
 
