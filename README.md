@@ -1,4 +1,5 @@
 # Meet *Hi Notch!*
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MStankiewiczOfficial/Hi-Notch/main/assets/badges/verify_dark_en.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MStankiewiczOfficial/Hi-Notch/main/assets/badges/verify_light_en.svg">
@@ -11,13 +12,10 @@
 ![GitHub License](https://img.shields.io/github/license/MStankiewiczOfficial/Hi-Notch?style=for-the-badge)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MStankiewiczOfficial/Hi-Notch/total?style=for-the-badge)
 
-
 ## Useless Notch? Dynamic Notch!
 
 ![](https://github.com/MStankiewiczOfficial/Hi-Notch/blob/v24022/assets/screenshot.png?raw=true)
 ***Hi Notch!*** makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
-
-> ⚠️ Note: This is still in a test version, which means that there may be errors. Currently available features may be significantly modified or even removed. Bugs should be reported [here](https://github.com/MStankiewiczOfficial/Hi-Notch/issues).
 
 ## Available functions
 
@@ -42,6 +40,7 @@ You will get a notification about new updates every time you run BetterTouchTool
 
 ## Instalation
 ### The fastest and safest way is to click the button below.
-[**Click here to import directly to BTT**](btt://importviaurl/https://github.com/MStankiewiczOfficial/Hi-Notch/releases/latest/download/Hi.Notch.bttpresetzip)
-
+### [Click here to import directly to BTT](https://www.mstankiewi.cz/hi-notch?download=2)
 ### You can also install from a [file](https://github.com/MStankiewiczOfficial/Hi-Notch/releases/latest).
+
+⚠️ Note: Bugs should be reported [here](https://github.com/MStankiewiczOfficial/Hi-Notch/issues).
