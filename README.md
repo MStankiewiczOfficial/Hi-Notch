@@ -34,9 +34,9 @@
 ### NotchAssistant
 Save time! In Word, Pages and Mail applications, you can use the help of artificial intelligence. All you have to do is type in a text box what you want to appear, and at the click of a button it will turn it into a masterpiece!
 
-**More features coming soon!**
+**...and much more features!**
 
-You will get a notification about new updates every time you run BetterTouchTool (can be turned off in settings).
+You will get a notification about new updates every time you run BetterTouchTool (can be turned off in preset settings; click Battery Level Status to open settings).
 
 ## Instalation
 ### The fastest and safest way is to click the button below.
