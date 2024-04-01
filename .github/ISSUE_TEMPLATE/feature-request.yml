@@ -1,5 +1,7 @@
 name: Feature request
 description: Suggest an idea for Hi Notch!
+assignees:
+  - MStankiewiczOfficial
 labels:
   - enhancement
 body:
